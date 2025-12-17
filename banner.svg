@@ -40,12 +40,12 @@
                 }
 			</style>
                 <div style="display: flex; flex-direction: column; align-items: center">
-                    <div class="animation" style="color:cornsilk; font-size: 7.5rem">
+                    <div class="animation" style="color:cornsilk; font-size: 3.5rem">
                         <span style="--i:1">Sebastián</span>
                         <span style="--i:2">Nicolás</span>
                         <span style="--i:3">Lee</span>
                     </div>
-                    <div class="animation" style="color:cornsilk; font-size: 3em">
+                    <div class="animation" style="color:cornsilk; font-size: 1em">
                         <span style="--i:4">Software Engineering Student</span>
                         <span style="--i:5">|</span>
                         <span style="--i:6">Freelance PC Building</span>
