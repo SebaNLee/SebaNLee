@@ -1,6 +1,6 @@
 <!-- Banner from https://css-tricks.com/custom-styles-in-github-readmes/ -->
 <div align="center">
-	<img src="banner.svg" height="150" alt="Banner...">
+	<img src="banner.svg" height="150" width="800" alt="Banner...">
 </div>
 
 ## A Productive Introduction
