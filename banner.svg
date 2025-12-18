@@ -11,20 +11,13 @@
                 }
 
                 .animation {
-                    --text-color: AliceBlue;
                     --delay: 0.25s;
 
                     display: flex;
                     flex-wrap: wrap;
-                    color:var(--text-color);
+                    color:AliceBlue;
                     font-weight: bold;
                     line-height: 1;
-                }
-
-                @media (prefers-color-scheme: light) {
-                    .animation {
-                        --text-color: #0F0700;
-                    }
                 }
 
                 .animation span {
