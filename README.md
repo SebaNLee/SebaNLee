@@ -6,14 +6,15 @@
 
 ## A Productive Introduction
 
-TODO
+Name's Sebalee. I like always having an active project, if it is not in here it's usually some geek offline stuff. Enjoy low-level work, system architecture and classical ML. Learnt webdev too. Fun, but not my endgame.
 
 
-## Currently Working On
+## Active Projects
 
 - GitHub profile
 - Learning Rust
 - Rust CLI Program
+- Personal Webpage
 
 
 ## Stack
@@ -43,11 +44,12 @@ TODO
 
 </div>
 
+
 ## Contact
 
 <div align="center">
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](seba.nico.lee@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mailto:seba.nico.lee@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sebalee/)
 
 </div>
