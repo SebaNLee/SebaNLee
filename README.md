@@ -5,7 +5,7 @@
 
 ## A Productive Introduction
 
-Name's Sebalee. I like always having an active project, if it is not in here it's usually some geek offline stuff. Enjoy low-level work, system architecture and classical ML. Learnt webdev too. Fun, but not my endgame.
+Name's Sebalee. I like always having an active project; if it is not here it's usually some geeky offline stuff. Enjoy low-level work, system architecture and classical ML. Learnt webdev too. Fun, but not my endgame.
 
 
 ## Active Projects
