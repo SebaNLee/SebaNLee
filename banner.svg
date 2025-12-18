@@ -1,15 +1,23 @@
 <svg fill="none" viewBox="0 0 800 150" width="800" height="150" xmlns="http://www.w3.org/2000/svg">
 	<foreignObject width="100%" height="100%">
-		<div xmlns="http://www.w3.org/1999/xhtml" style="height: 100%; display: flex; align-items: center; justify-content: center">
+		<div xmlns="http://www.w3.org/1999/xhtml" class="main">
 			<style>
+                .main {
+                    height: 100%;
+                    display: flex;
+                    align-items: center;
+                    justify-content: center;
+                    font-family: 'Times New Roman';
+                }
+
                 .animation {
                     display: flex;
                     flex-wrap: wrap;
-                    gap: 0.25em;
+                    color:cornsilk;
                     font-weight: bold;
                     line-height: 1;
 
-                    --delay: 0.2s;
+                    --delay: 0.25s;
                 }
 
                 .animation span {
@@ -17,7 +25,7 @@
                     opacity: 0;
                     filter: blur(6px);
                     transform: translateY(-15px);
-                    animation: blurReveal 0.7s cubic-bezier(0.61, 1, 0.88, 1) forwards;
+                    animation: blurReveal 0.7s ease-out forwards;
                     animation-delay: calc(var(--i) * var(--delay));
                 }
 
@@ -40,12 +48,12 @@
                 }
 			</style>
                 <div style="display: flex; flex-direction: column; align-items: center">
-                    <div class="animation" style="color:cornsilk; font-size: 5rem">
-                        <span style="--i:1">Sebastián</span>
-                        <span style="--i:2">Nicolás</span>
+                    <div class="animation" style="font-size: 5rem">
+                        <span style="--i:1">Seba</span>
+                        <span style="--i:2">N</span>
                         <span style="--i:3">Lee</span>
                     </div>
-                    <div class="animation" style="color:cornsilk; font-size: 1em">
+                    <div class="animation" style="font-size: 1em; gap: 0.25em;">
                         <span style="--i:4">Software Engineering Student</span>
                         <span style="--i:5">|</span>
                         <span style="--i:6">Freelance PC Building</span>
