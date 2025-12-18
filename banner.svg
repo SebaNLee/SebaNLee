@@ -13,7 +13,7 @@
                 .animation {
                     display: flex;
                     flex-wrap: wrap;
-                    color:cornsilk;
+                    color:AliceBlue;
                     font-weight: bold;
                     line-height: 1;
 
