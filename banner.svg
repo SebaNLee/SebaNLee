@@ -25,7 +25,7 @@
                     opacity: 0;
                     filter: blur(6px);
                     transform: translateY(-15px);
-                    animation: blurReveal 0.7s ease-out forwards;
+                    animation: blurReveal 1s ease-out forwards;
                     animation-delay: calc(var(--i) * var(--delay));
                 }
 
@@ -36,9 +36,9 @@
                     transform: translateY(-15px);
                 }
                 60% {
-                    opacity: 0.5;
+                    opacity: 0.6;
                     filter: blur(3px);
-                    transform: translateY(2px);
+                    transform: translateY(1px);
                 }
                 100% {
                     opacity: 1;
