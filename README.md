@@ -10,7 +10,6 @@ Name's Sebalee. I like always having an active project; if it is not here it's u
 
 ## Active Projects
 
-- GitHub profile
 - Learning Rust
 - Rust CLI Program
 - Personal Webpage
