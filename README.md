@@ -11,8 +11,7 @@ Name's Sebalee. I like always having an active project; if it is not here it's u
 ## Active Projects
 
 - Learning Rust
-- Rust CLI Program
-- Personal Webpage
+- Neural Network from scratch
 
 
 ## Stack
